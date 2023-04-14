@@ -22,6 +22,7 @@ let displayLink = document.querySelector(".display-link");
 
 // task 7: create and populate an array to store your image urls. Create three more arrays. One to store your song names, one for the artists, and a last one for the song links.
 
+
 // let song1 = {
 //   image: '<img src="https://images.genius.com/ab2b5a62d4b6ba8a49c68449618e5b34.1000x1000x1.png">',
 //   name: 'Si Me La Haces',
