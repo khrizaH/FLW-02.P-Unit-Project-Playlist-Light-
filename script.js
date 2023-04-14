@@ -259,9 +259,9 @@ clear.onclick = function() {
   emptyDisplay();
 };
 
-shuffle.onclick = function () {
-  shuffleArrays();
-};
+// shuffle.onclick = function () {
+//   shuffleArrays();
+// };
 
 // function call to display stored songs
 displaySongInfo();
